@@ -1,5 +1,6 @@
 {
   "name": "airbnb-page",
+  "homepage": "https://github.com/Jibs-Jibz/airbnb-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +8,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
-    "homepage": "https://github.com/Jibs-Jibz/airbnb-page"
   },
   "scripts": {
     "predeploy": "npm run build",
