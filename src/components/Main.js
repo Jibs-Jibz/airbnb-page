@@ -1,11 +1,8 @@
-// import mainImg1 from "../img/main-img-1.png"
-// import star from "../img/star.svg"
-
 export default function Main(props) {
     let badgeText
-    if (props.item.openSpots === 0) {
+    if (props.openSpots === 0) {
         badgeText = "SOLD OUT"
-    } else if (props.item.location === "Online") {
+    } else if (props.location === "Online") {
         badgeText = "AVAILABLE"
     }
 
@@ -13,16 +10,19 @@ export default function Main(props) {
     return (
         <div className="main1">
             {badgeText && <div className="flag">{badgeText}</div>}
-            <img src={props.item.coverImg} alt="" className="main-img1" />
-            <div className="main-img-text1">
+            <img src={require(`../../public/img/${props.coverImg}`)} alt="img" className="main-img1" />
+            <div className="main-img-tex t1">
                 <div className="img-review">
-                    <p> <img src={props.item.starImg} className="star-img" alt="star" />
-                        {props.item.stats.rating} <span>({props.item.stats.reviewCount}) &#8226;
-                            {props.item.country}</span>
+                    <p> 
+                        <img src={require(`../../public/img/${props.starImg}`)} className="star-img" alt="star" />
+                        {props.stats.rating}
+                        <span>({props.stats.reviewCount}) &#8226;
+                            {props.country}
+                        </span>
                     </p>
                 </div>
-                <p>{props.item.title}</p>
-                <p> <strong>From ${props.item.price}</strong> / person</p>
+                <p>{props.title}</p>
+                <p> <strong>From ${props.price}</strong> / person</p>
             </div>
         </div>
 
