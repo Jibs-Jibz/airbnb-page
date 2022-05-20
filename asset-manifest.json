@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Jibs-Jibz/airbnb-page/static/css/main.e9990015.css",
-    "main.js": "/Jibs-Jibz/airbnb-page/static/js/main.a8db6df9.js",
-    "static/media/airbnb-img.svg": "/Jibs-Jibz/airbnb-page/static/media/airbnb-img.db716c12f71f39d69b29.svg",
-    "static/media/airbnb-img.png": "/Jibs-Jibz/airbnb-page/static/media/airbnb-img.0300f35f9989c818ecec.png",
-    "static/media/Jibs2.jpg": "/Jibs-Jibz/airbnb-page/static/media/Jibs2.88ee29150b524d84f8a7.jpg",
-    "static/media/main-img-3.png": "/Jibs-Jibz/airbnb-page/static/media/main-img-3.da64e4fee8cf359998ed.png",
-    "static/media/main-img-2.png": "/Jibs-Jibz/airbnb-page/static/media/main-img-2.ec540543d8bf8fd0de3e.png",
-    "static/media/main-img-1.png": "/Jibs-Jibz/airbnb-page/static/media/main-img-1.13b216948c83b071fc49.png",
-    "static/media/groot.jpg": "/Jibs-Jibz/airbnb-page/static/media/groot.688e76568af31f485f63.jpg",
-    "static/media/airbnb-logo.png": "/Jibs-Jibz/airbnb-page/static/media/airbnb-logo.e4424517383d14a03a24.png",
-    "static/media/airbnb-svg.svg": "/Jibs-Jibz/airbnb-page/static/media/airbnb-svg.a756cfe0391df621ec88f606c0c149cd.svg",
-    "static/media/star.svg": "/Jibs-Jibz/airbnb-page/static/media/star.18250bf64ff85b17a3e4.svg",
-    "index.html": "/Jibs-Jibz/airbnb-page/index.html",
-    "main.e9990015.css.map": "/Jibs-Jibz/airbnb-page/static/css/main.e9990015.css.map",
-    "main.a8db6df9.js.map": "/Jibs-Jibz/airbnb-page/static/js/main.a8db6df9.js.map"
+    "main.css": "/airbnb-page/static/css/main.e9990015.css",
+    "main.js": "/airbnb-page/static/js/main.7ccd656a.js",
+    "static/media/airbnb-img.svg": "/airbnb-page/static/media/airbnb-img.db716c12f71f39d69b29.svg",
+    "static/media/airbnb-img.png": "/airbnb-page/static/media/airbnb-img.0300f35f9989c818ecec.png",
+    "static/media/Jibs2.jpg": "/airbnb-page/static/media/Jibs2.88ee29150b524d84f8a7.jpg",
+    "static/media/main-img-3.png": "/airbnb-page/static/media/main-img-3.da64e4fee8cf359998ed.png",
+    "static/media/main-img-2.png": "/airbnb-page/static/media/main-img-2.ec540543d8bf8fd0de3e.png",
+    "static/media/main-img-1.png": "/airbnb-page/static/media/main-img-1.13b216948c83b071fc49.png",
+    "static/media/groot.jpg": "/airbnb-page/static/media/groot.688e76568af31f485f63.jpg",
+    "static/media/airbnb-logo.png": "/airbnb-page/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "static/media/airbnb-svg.svg": "/airbnb-page/static/media/airbnb-svg.a756cfe0391df621ec88f606c0c149cd.svg",
+    "static/media/star.svg": "/airbnb-page/static/media/star.18250bf64ff85b17a3e4.svg",
+    "index.html": "/airbnb-page/index.html",
+    "main.e9990015.css.map": "/airbnb-page/static/css/main.e9990015.css.map",
+    "main.7ccd656a.js.map": "/airbnb-page/static/js/main.7ccd656a.js.map"
   },
   "entrypoints": [
     "static/css/main.e9990015.css",
-    "static/js/main.a8db6df9.js"
+    "static/js/main.7ccd656a.js"
   ]
 }
